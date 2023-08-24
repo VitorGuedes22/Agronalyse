@@ -1,0 +1,16 @@
+ Produto: Arroz; Data de cadastro do estoque: 25/07/2023; Quantidade armazenada: 22.0; Capacidade: 25.0; Valor por unidade do produto: 2.0
+
+ Produto: Banana; Data de cadastro do estoque: 25/07/2023; Quantidade armazenada: 20.0; Capacidade: 30.0; Valor por unidade do produto: 2.8
+
+ Produto: Carne; Data de cadastro do estoque: 25/07/2023; Quantidade armazenada: 220.0; Capacidade: 400.0; Valor por unidade do produto: 25.0
+
+ Produto: Batata; Data de cadastro do estoque: 26/06/2023; Quantidade armazenada: 18900.0; Capacidade: 25000.0; Valor por unidade do produto: 0.8
+
+ Produto: Soja; Data de cadastro do estoque: 26/06/2023; Quantidade armazenada: 40000.0; Capacidade: 900000.0; Valor por unidade do produto: 0.4
+
+ Produto: Milho; Data de cadastro do estoque: 26/06/2023; Quantidade armazenada: 62760.0; Capacidade: 80000.0; Valor por unidade do produto: 0.6
+
+ Produto: Feijão; Data de cadastro do estoque: 26/06/2023; Quantidade armazenada: 40570.0; Capacidade: 62000.0; Valor por unidade do produto: 0.3
+
+ Produto: Uva; Data de cadastro do estoque: 26/06/2023; Quantidade armazenada: 14000.0; Capacidade: 35000.0; Valor por unidade do produto: 0.8
+
